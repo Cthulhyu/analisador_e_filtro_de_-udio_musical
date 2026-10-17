@@ -68,7 +68,7 @@ pip install numpy scipy matplotlib
 2. Abra o notebook:
 
 ```bash
-jupyter notebook Sistematizacao_Metodos_Matematicos_Violao.ipynb
+jupyter notebook Relatorio.ipynb
 ```
 
 3. Garanta que `audio/gravacao_real_violao.wav` esteja acessível.  
